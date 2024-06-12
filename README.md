@@ -11,6 +11,5 @@ https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
 
 **Usage-**
 ```
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/Raj140503/Bank-Customer-Churn-Prediction
 ```
